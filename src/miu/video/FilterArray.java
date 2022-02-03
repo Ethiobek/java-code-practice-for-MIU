@@ -1,7 +1,7 @@
 package miu.video;
 
 public class FilterArray {
-
+	
 	static int isFilter(int []a) {
 		int found=1;
 		boolean fCond=true,sCond=true;
